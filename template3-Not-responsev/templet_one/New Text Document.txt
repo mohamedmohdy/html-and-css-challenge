@@ -1,0 +1,764 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>tas1k</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,300,500" rel="stylesheet">
+</head>
+<!-- ---------------------------- start hedaer section------------------------------ -->
+
+<body>
+    <header class="header">
+        <nav class="nv">
+            <div class="items">
+                <ul>
+                    <li>
+                        <a href="#">Home</a>
+                        <a href="#">Genric</a>
+                        <a href="#">Elemnts</a>
+                    </li>
+                </ul>
+                <div class="logo">
+                    <img src="templet_one/logo.png" alt="">
+                </div>
+            </div>
+        </nav>
+
+        <div class="content">
+            <div class="text">
+                <h2>No Need to find,<br> This is the place on web</h2>
+                <p>Living in today’s metropolitan world of cellular phones, mobile computers and other<br> high-tech
+                    gadgets is not just hectic but very impersonal.</p>
+                <button>Get Started</button>
+            </div>
+        </div>
+
+    </header>
+    <!-- ---------------------------- end hedaer section ------------------------------ -->
+    <!-- ---------------------------- start history section ------------------------------ -->
+    <section class="history">
+        <div class="head">
+            <h2>Glorious History</h2>
+            <p>It won’t be a bigger problem to find one video game lover in your<br> neighbor. Since the introduction of
+                Virtual Game,</p>
+        </div>
+        <div class="contanir_history">
+            <div class="img">
+                <img src="templet_one/img_histoy.jpg" alt="">
+            </div>
+            <div class="buttons">
+                <button class="color">history</button>
+                <button>mission</button>
+                <button>vission</button>
+            </div>
+            <div class="history_text">
+                <h2>History</h2>
+                <p>Few would argue that, despite the advancements of feminism over the past three<br> decades, women
+                    still face a double standard when it comes to their behavior. While men’s<br>
+                    borderline-inappropriate behavior is often laughed off as “boys will be boys,” women face higher
+                    conduct standards –<br> especially in the workplace. That’s why it’s crucial that, as women, our
+                    behavior on the job is beyond <br>reproach.Small Towns and Big StatesFor evidence of the double
+                    standard, we need look no farther than Arlington.</p>
+            </div>
+        </div>
+    </section>
+    <!-- ---------------------------- end history section ------------------------------ -->
+    <!-- ---------------------------- start blocks section ------------------------------ -->
+    <section class="blocks">
+        <div class="contanir_blocks">
+            <div class="content">
+                <img src="templet_one/magic.PNG" alt="">
+                <h3>Software</h3>
+            </div>
+            <div class="content">
+                <div class="gray">
+                    <p>Few would<br> argue that, despite<br> the advancements of <br>feminism over<br> the past three
+                        decades.</p>
+                </div>
+
+            </div>
+            <div class="content">
+                <img src="templet_one/mouse.PNG" alt="">
+                <h3>Front end</h3>
+            </div>
+            <div class="content">
+                <div class="gray">
+                    <p>Few would<br> argue that, despite<br> the advancements of <br>feminism over<br> the past three
+                        decades.</p>
+                </div>
+
+            </div>
+            <div class="content">
+                <div class="gray">
+                    <p>Few would<br> argue that, despite<br> the advancements of <br>feminism over<br> the past three
+                        decades.</p>
+                </div>
+
+            </div>
+            <div class="content">
+                <img src="templet_one/book.PNG" alt="">
+                <h3>Word press</h3>
+            </div>
+            <div class="content">
+                <div class="gray">
+                    <p>Few would<br> argue that, despite<br> the advancements of <br>feminism over<br> the past three
+                        decades.</p>
+                </div>
+
+            </div>
+            <div class="content">
+                <img src="templet_one/gohra.PNG" alt="">
+                <h3>Ux Design</h3>
+            </div>
+        </div>
+    </section>
+    <!-- ---------------------------- end blocks section ------------------------------ -->
+    <!-- ---------------------------- start exprestion section ------------------------------ -->
+    <section class="contanir_exprestions">
+        <div class="header-exprestions">
+            <h2>Beautiful Experiences</h2>
+            <p>LCD screens are uniquely modern in style, and the liquid crystals that make<br> them work have allowed
+                humanity.</p>
+        </div>
+        <div class="vector-img">
+            <img src="templet_one/lamp.jpg" alt="" class="img1">
+            <img src="templet_one/vegta.jpg" alt="" class="img2">
+        </div>
+        <div class="vector-content">
+            <h2>Vector Illustration</h2>
+            <p>LCD screens are uniquely modern in style<br>, and the liquid crystals that make them work have
+                allowed<br><br>
+                Lorem ipsum dolor sit amet, consectetur<br> adipisicing elit, sed do eiusmod tempor<br> incididunt ut
+                labore et dolore magna aliqua.<br> Ut enim ad minim veniam,<br> quis nostrud exercitation ullamco
+                laboris nisi ut aliquip<br> ex ea commodo consequat duis aute irure dolor.</p>
+        </div>
+    </section>
+    <!-- ---------------------------- end exprestion section ------------------------------ -->
+    <!-- ---------------------------- start some project section ------------------------------>
+    <section class="some-project">
+        <div class="hedaer-som-project">
+            <h2>Some Projects</h2>
+            <p>LCD screens are uniquely modern in style, and the liquid crystals that make them work<br> have allowed
+                humanity.</p>
+        </div>
+        <div class="content-some-project">
+            <div class="img-some-project">
+                <img src="templet_one/glases.jpg" alt="">
+            </div>
+            <div class="content-some-project2">
+                <h3>Vector ilustration</h3>
+                <p>Lorem ipsum dolor sit, amet consectetur <br>adipisicing elit. Alias nesciunt enim provident
+                    perferendis nobis,<br> distinctio, adipisci quidem similique ea maiores asperiores reiciendis fugiat
+                    dicta recusandae eius numquam esse! Inventore, accusamus.</p>
+            </div>
+        </div>
+    </section>
+     <!-- ---------------------------- end some project section ------------------------------>
+     <!-- ---------------------------- start form section ------------------------------>
+        <div class="contanir-form">
+            <div class="header-contanir-form">
+                <h2>Keep in Touch</h2>
+                <p>Most people who work in an office environment, buy computer<br> products, or have a computer at home have</p>
+            </div>
+            <div class="form-contanir">
+                <input type="text" placeholder="enter your user name here">
+                <input type="email" placeholder="enter email adress"><br><br>
+                <button>Submite</button>
+            </div>
+        </div>
+     <!-- ---------------------------- end form section ------------------------------>
+      <!-- ---------------------------- start email section ------------------------------>
+        <div class="email-section">
+            <div class="header-section-email">
+                <h2>Together,<br>
+                    Let’s Make this happen</h2>
+            </div>
+            <div class="email-forma">
+                <input type="email" placeholder="Email Address"><br>
+                <button>Get Started</button>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+</html>
+------------------------------------------------------
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* start section header */
+.header {
+    width: 100%;
+    height: 600px;
+    background-image: url("templet_one/banner-bg.jpg");
+    background-size: cover;
+}
+
+.items ul li {
+    float: right;
+    list-style-type: none;
+    padding-top: 15px;
+}
+
+.items ul li a {
+    margin-right: 80px;
+    text-decoration: none;
+    color: white;
+    font-size: 19px;
+
+}
+
+/* .items ul li a:hover {
+    color: rgb(239, 61, 61);
+} */
+
+.logo img {
+    margin-top: 15px;
+    margin-left: 70px;
+}
+
+.items {
+    background-color: rgba(132, 96, 246, 0.8);
+}
+
+/* end section header */
+.content {
+    width: 100%;
+    height: 555px;
+    background-color: rgba(132, 96, 246, 0.8);
+    text-align: center;
+}
+
+.content .text {
+    font-size: 25px;
+    padding-top: 130px;
+    color: white;
+    font-family: "Poppins", sans-serif;
+
+}
+
+.content .text h2 {
+    margin-bottom: 15px;
+    font-weight: 200;
+    font-size: 55px;
+}
+
+.content .text p {
+    font-size: 15px;
+    font-weight: 300;
+    margin-bottom: 35px;
+}
+
+.content .text button {
+    width: 120px;
+    padding: 6px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    border-radius: 15px;
+}
+
+.content .text button:hover {
+    width: 150px;
+    transition: all 1s;
+    cursor: pointer;
+    font-size: 18px;
+}
+.items ul li a:hover {
+    color: rgb(239, 61, 61);
+    transition: all 1s;
+}
+/* --------------------------- end section header--------------------------- */
+/* --------------------------- start section hestory--------------------------- */
+.history{
+    background-color:white;
+    width: 100%;
+    height: 600px;
+}
+.history .head{
+    font-family: "Poppins", sans-serif;
+    padding-top: 50px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.history .head h2{
+    margin-bottom:15px ;
+}
+.history .head p{
+   color:gray;
+}
+.contanir_history{
+    width: 80%;
+    height: 65%;
+    margin: auto;
+    background-color:white;
+    position: relative;
+}
+.contanir_history img{
+    width: 30%;
+    height: 100%;
+    position: absolute;
+    left: 0px;
+}
+.contanir_history .buttons{
+    width: 270px;
+    height: 30px;
+    float: right;
+    background-color:white;
+    padding: 10px;
+    position: absolute;
+    right: 310px;
+    top: 20px;
+    
+}
+.contanir_history .buttons button{
+    padding-right: 10px;
+    padding-left:10px ;
+    margin-right: 10px;
+    margin-top:3px ;
+    padding: 10px;
+    padding-right: 15px;
+    border-radius: 15px;
+    border:none;
+    color:black;
+}
+.contanir_history .buttons .color{
+   background-color:#8460f6;
+   font-family: "Poppins", sans-serif;
+   color:white;
+}
+.contanir_history .buttons button:hover{
+    background-color:#8460f6;
+    color:white;
+    transition: all 1s;
+    cursor: pointer;
+    font-family: "Poppins", sans-serif;
+    
+}
+.contanir_history .history_text{
+    width: 600px;
+    height: 200px;
+    background-color:white;
+    position: absolute;
+    left: 380px;
+    top: 130px;
+}
+.contanir_history .history_text h2{
+    margin-bottom: 10px;
+    font-family: "Poppins", sans-serif;
+}
+.contanir_history .history_text p{
+    color:gray;
+}
+/* --------------------------- end section history--------------------------- */
+/* --------------------------- start section blocks--------------------------- */
+.blocks{
+    width: 100%;
+    height: 400px;
+    background-color:#f3487f;
+}
+.blocks .contanir_blocks{
+    width: 70%;
+    height: 100%;
+    background-color:white;
+    margin-left: 180px;
+}
+.blocks .contanir_blocks .content{
+    height: 194px;
+    width: 190px;
+    background-color:white;
+    float: left;
+    margin-right: 22px;
+    margin-bottom: 10px;
+}
+.blocks .contanir_blocks .content img{
+    margin-top: 60px;
+}
+.blocks .contanir_blocks .content h3{
+    font-family: "Poppins", sans-serif;
+    margin-top: 15px;
+}
+.blocks .contanir_blocks .content .gray p{
+    font-family: "Poppins", sans-serif;
+    margin-top: 25px;
+    color:white;
+    font-weight: 300;
+    font-size: 15px;
+}
+.blocks .contanir_blocks .content .gray {
+   width: 100%;
+   height: 150px;
+   padding: 1px;
+   padding-bottom: 42px;
+   background-color:#6f7598;
+}
+/* --------------------------- end section blocks--------------------------- */
+/* --------------------------- start section expretions--------------------------- */
+.contanir_exprestions{
+        width: 100%;
+        height: 550px;
+        background-color:white;
+        position: relative;
+}
+.contanir_exprestions .header-exprestions{
+    width: 400px;
+    height: 150px;
+    margin:auto;
+    background-color:white;
+    padding-top: 30px;
+    text-align: center;
+}
+.contanir_exprestions .header-exprestions h2{
+   margin-bottom: 10px;
+   font-family: "Poppins", sans-serif;
+}
+.contanir_exprestions .vector-img{
+    width: 80%;
+    height:300px ;
+    background-color:white;
+    margin: auto;
+    
+}
+.contanir_exprestions .vector-img img{
+    
+    width:25% ;
+    height: 100%;
+}
+.contanir_exprestions .vector-img .img1{
+    left: 280px;
+}
+.contanir_exprestions .vector-content{
+    width: 490px;
+    height: 200px;
+    background-color:white;
+    position: absolute;
+    right: 89px;
+    top: 220px;
+}
+.contanir_exprestions .vector-content h2,p {
+   padding-left: 18px;
+}
+.contanir_exprestions .vector-content h2{
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 15px;
+ }
+ /* -------------------------------------------------------------- */
+
+ .some-project{
+    width: 100%;
+    height: 600px;
+    background-color:#5dd1e3;
+    
+ }
+ .some-project .hedaer-som-project{
+    width: 500px;
+    height: 250px;
+    text-align: center;
+    background-color:#5dd1e3;
+    margin: auto;
+ }
+ .some-project .hedaer-som-project h2{
+    padding-top: 80px;
+    padding-bottom: 20px;
+    font-family: "Poppins", sans-serif;
+    color:white;
+ }
+ .some-project .hedaer-som-project p{
+    font-family: "Poppins", sans-serif;
+    color:white;
+    padding-bottom: 10px;
+ }
+ .some-project .content-some-project{
+    width: 80%;
+    height: 250px;
+    background-color:rgb(197, 200, 32);
+    margin-left: 120px;
+    position: relative;
+ }
+ .some-project .content-some-project .img-some-project{
+    width:70%;
+    height: 100%;
+    background-color:black;
+    position:absolute;
+    top: 0;
+ }
+ .some-project .content-some-project .img-some-project img{
+    height: 100%;
+    width: 100%;
+ }
+ .some-project .content-some-project .content-some-project2{
+    width:30%;
+    height: 100%;
+    background-color:white;
+    position:absolute;
+    right:  0;
+    color:white;
+ }
+ .some-project .content-some-project .content-some-project2 h3{
+   padding-top: 40px;
+   padding-left: 20px;
+   margin-bottom: 20px;
+   color:black;
+   font-family: "Poppins", sans-serif;
+ }
+ .some-project .content-some-project .content-some-project2 p{
+    color:gray;
+ }
+ /* -------------------------------------------------------------- */
+.contanir-form{
+    width: 100%;
+    height: 400px;
+    background-color:white;
+}
+.contanir-form .header-contanir-form{
+    width: 50%;
+    height: 30%;
+    background-color:white;
+    text-align: center;
+    padding-top: 50px;
+    margin: auto;
+}
+.contanir-form .header-contanir-form h2{
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 10px;
+}
+.contanir-form .header-contanir-form p{
+    color:gray;
+}
+.contanir-form .form-contanir {
+    width: 70%;
+    height: 30%;
+    background-color:white;
+    text-align: center;
+    padding-top: 50px;
+    margin: auto;
+}
+.contanir-form .form-contanir input {
+    width: 200px;
+    height: 40px;
+    padding-left: 10px;
+    border:none;
+    outline: none;
+    border-bottom: 1px solid gray;
+}
+.contanir-form .form-contanir input:focus {
+    border-bottom: 1px solid red;
+}
+.contanir-form .form-contanir button {
+    width: 130px;
+    height: 33px;
+    font-size: 15px;
+    border-radius:15px ;
+    border:1px solid black;
+    font-family: "Poppins", sans-serif;
+    
+    border:none;
+    background-color:gray;
+    color:white;
+}
+.contanir-form .form-contanir button:hover {
+    cursor:pointer;
+    /* width: 145px; */
+    font-size: 17px;
+    transition: all 1s;
+    background-color:#8460f6;
+}
+ /* -------------------------------------------------------------- */
+ .email-section{
+    width: 100%;
+    height: 300px;
+    background-color:#f9c400;
+ }
+ .email-section .header-section-email{
+    width:50% ;
+    height:150px ;
+    background-color:#f9c400;
+    margin: auto;
+ }
+ .email-section .header-section-email h2{
+    text-align: center;
+    padding-top: 50px;
+    color:white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+ }
+ .email-section .email-forma{
+    width: 100%;
+    height: 100px;
+    background-color:#f9c400;;
+    margin-top: 20px;
+ }
+ .email-section .email-forma input{
+    width: 490px;
+    height: 40px;
+    background-color:antiquewhite;
+    margin-left: 350px;
+    border-radius:20px ;
+    margin-top: 10px;
+    padding-left: 20px;
+    border:none;
+    border:1px solid white;
+    outline: none;
+    
+}
+.email-section .email-forma button{
+    width: 180px;
+    height: 40px;
+    background-color:gray;
+    color:white;
+    margin-left: 510px;
+    border-radius:20px ;
+    margin-top: 10px;
+    border:none;
+    border:1px solid white;
+    outline: none;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    border:none;
+    
+}
+.email-section .email-forma button:hover{
+    transition: all 1s;
+    background-color:#8460f6;
+    font-size: 17px;
+    cursor:pointer;
+   
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
